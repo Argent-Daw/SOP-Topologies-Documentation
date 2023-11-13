@@ -13,7 +13,7 @@ This repository contains Standard Operating Procedures (SOPs), Scripts, and Syst
 * [Place holder for future SOPs]
 
 # System Topology
-* [Topology](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/Project%20Topology.drawio.png)https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/Project%20Topology.drawio.png)
+* [Topology](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/Project%20Topology.drawio.png)
  
 # Documentation
 * [Veeam Backup](Link when done)
