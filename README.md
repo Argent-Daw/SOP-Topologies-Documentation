@@ -1,5 +1,5 @@
 # SOP-Topologies-Documentation
-This repo contains Standard Operating Procedures (SOPs), Scripts, and System Documentation
+This repository contains Standard Operating Procedures (SOPs), Scripts, and System Documentation
 
 # SOPs
 * [Place holder for future SOPs]
