@@ -7,7 +7,7 @@ This repository contains Standard Operating Procedures (SOPs), Scripts, and Syst
 * [Back Up Data](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_BackUp.md)
 * [Windows Setup](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_WindowsSetup.md)
 * [Linux Setup](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_LinuxSetup.md)
-* [Place holder for future SOPs]
+* [New Hire](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_NewHire.md)
 * [Place holder for future SOPs]
 * [Place holder for future SOPs]
 * [Place holder for future SOPs]
