@@ -1,48 +1,42 @@
-# [Template] SOP:
+# SOP: Puchase Requests 
 
 ## Purpose:
 
-> [The purpose or rational for the procedure. If there are policies or standards which this procedure exists to meet, reference them here.]
-
-This document will answer the question "How will you write and organize your SOPs?" while also serving as an example of the format.
+The purpose of this SOP is to describe the process of how the company will purchase equipment for employees.
 
 ## Scope:
 
-[What areas of the organization will be affected.]
+This SOP applies to all employees and departments within the company.
 
 ## Responsibilities:
 
-> [Who is responsible for implementing, following, reviewing, maintaining, and updating this policy.]
+The IT Department is responsible for the implementation, maintenance aand review of this policy.
 
 ## Prerequisites:
 
-> [The information, resources, permissions, etc. required to execute this procedure.]
+The IT Department is responsible for the implementation, maintenance aand review of this policy. Only the IT Department will edit this policy according to SOPs.
+
 
 ## Procedure:
 
-> [The outline of the activities or sequence of steps for performing the procedure. This should not be overly detailed -- let it capture the shape of the activity to be performed, regardless of how the details of its implementation might change.]
+**Employee Requirement**
+1. Employees will submit a formal request to IT Department and appropriate chain of command model.
+2. Employees will identify the need of purchase due to malfunctioning or updates.
 
-- Begin with a flow chart map of the parts of the procedure being defined. This will become your outline
-- Bundle closely related tasks together for concision, especially if they always occur together/in sequence without much deviation
-- Work to have 5-7 tasks -- too few and it's not worth reading; too many and it's too hard to read. This is about parsing.
-- Now revise the flowchart to match the way you have bundled steps and number each steps
-- Write a concise, focused description for each step
-- Add a brief opening overview paragraph to describe the topic , inputs, outputs, expected results, and involved roles
+**IT Department Requirement**
+1. IT Department Manager will submit request to the Financial Department head for review.
+2. IT Department Manager will get exact pricing of the requested items.
+3. IT Department Manager will communicate with employee throughout the process with updates and decision.
+4. IT Department Manager will make the purchase after getting confirmation.
 
 ## References:
 
-> [Sources this document pulls from or references, or simply extended reading/documentation on this subject.]
+[SOP](https://github.com/Argent-Daw/SOP-Topologies-Documentation)
 
-- [So, You Want to Write an SOP?](https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop.aspx)
-- [37 Best Standard Operating Procedure (SOP) Templates](https://templatelab.com/sop-templates/)
 ## Definitions:
 
-> [What words are used throughout this document and procedure which have specific meanings that must be respected.]
-
-- Policy -- "why?"; broad, overarching guidance
-- SOP -- "what, when, why"; could be multiple SOPs to support a specific policy
-- Work Instructions -- "how"; in-depth, step-by-step directions for a particular task
+* SOP - Standard Operating Procedure
 
 ## Revision History:
 
-2/12/2021 -- "SOP_Template.md" created by Ethan Denny
+11/14/2023 - Creation of file by Matthew Earles
