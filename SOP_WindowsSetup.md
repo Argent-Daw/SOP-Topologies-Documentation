@@ -2,8 +2,6 @@
 
 ## Purpose:
 
-> [The purpose or rational for the procedure. If there are policies or standards which this procedure exists to meet, reference them here.]
-
 This documents outlines the SOP for IT Windows Setup
 
 ## Scope:
