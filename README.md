@@ -9,7 +9,7 @@ This repository contains Standard Operating Procedures (SOPs), Scripts, and Syst
 * [Linux Setup](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_LinuxSetup.md)
 * [New Hire](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_NewHire.md)
 * [Ticket Support](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_TicketSupport.md)
-* [Place holder for future SOPs]
+* [Troubleshooting](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP-TROUBLESHOOT.md)
 * [Place holder for future SOPs]
 
 # System Topology
