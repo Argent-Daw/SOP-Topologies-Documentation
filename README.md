@@ -12,6 +12,7 @@ This repository contains Standard Operating Procedures (SOPs), Scripts, and Syst
 * [Troubleshooting](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP-TROUBLESHOOT.md)
 * [Purchase Request](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_Purchases.md)
 * [Virtual Support](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_VirtualSupport.md)
+* [Data Delection](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/SOP_DataDeletion.md)
 
 # System Topology
 * [Topology](https://github.com/Argent-Daw/SOP-Topologies-Documentation/blob/main/Project%20Topology.drawio.png)
